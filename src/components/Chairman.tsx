@@ -95,7 +95,7 @@ export default function Chairman() {
               <div className="flex items-center gap-4 pt-8 border-t border-gray-200">
                 <div className="h-px flex-1 bg-gold/30" />
                 <div>
-                  <p className="font-serif text-primary font-semibold text-right">The Chairman</p>
+                  <p className="font-serif text-primary font-semibold text-right">The Chairman Sia Bee Yan</p>
                   <p className="text-xs text-gray-400 text-right mt-0.5">Hunt Property Management Sdn Bhd</p>
                 </div>
               </div>
