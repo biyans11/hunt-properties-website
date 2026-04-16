@@ -4,7 +4,7 @@ const STATS = [
   { value: '20+', label: 'Years of Experience', suffix: '' },
   { value: '40+', label: 'Professional Staff', suffix: '' },
   { value: '5', label: 'Core Departments', suffix: '' },
-  { value: '9', label: 'Projects Managed', suffix: '' },
+  { value: '30', label: 'Projects Managed', suffix: '' },
 ]
 
 const DEPARTMENTS = [
@@ -12,19 +12,22 @@ const DEPARTMENTS = [
   'Property Management Department',
   'Business Development Department',
   'Quality Management Department',
-  'Finance Department',
+  'Account & Finance Department',
+  'Human Resource Department',
 ]
 
 const PROJECTS = [
-  'Danxi Third District · Times Garden',
-  'Sunshine Metropolis',
-  'Oriental Star International Residence',
-  'Jincheng Golf International Apartments',
-  'Yile New Village',
-  'Shuanglin Yiyuan',
-  'Wending Apartment',
-  'Chunhan Apartment',
-  'Jinglong Kitchenware City',
+  'Menara K1 @ Old Klang Road',
+  'Sekitar26 Enterprise @ USJ',
+  '10 Boulevard @ Damansara Jaya',
+  'Yolo @ Sunway',
+  'The Mate @ Damansara',
+  'Ken 3 Damansara',
+  'Jasmine Tower Damansara',
+  'Wisma PJ5 @ Kelana Jaya',
+  'Scenaria @ North Kiara Hill',
+  'Isola @ KLCC',
+  'The Villa @ Serai Saujana',
 ]
 
 export default function About() {
