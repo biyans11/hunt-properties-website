@@ -2,9 +2,9 @@ import ScrollReveal from './ScrollReveal'
 
 const STATS = [
   { value: '20+', label: 'Years of Experience', suffix: '' },
-  { value: '40+', label: 'Professional Staff', suffix: '' },
-  { value: '5', label: 'Core Departments', suffix: '' },
-  { value: '9', label: 'Projects Managed', suffix: '' },
+  { value: '80+', label: 'Professional Staff', suffix: '' },
+  { value: '6', label: 'Core Departments', suffix: '' },
+  { value: '22', label: 'Projects Managed', suffix: '' },
 ]
 
 const DEPARTMENTS = [
@@ -12,19 +12,24 @@ const DEPARTMENTS = [
   'Property Management Department',
   'Business Development Department',
   'Quality Management Department',
-  'Finance Department',
+  'Account & Finance Department',
+  'Human Resource Department',
 ]
 
 const PROJECTS = [
-  'Danxi Third District · Times Garden',
-  'Sunshine Metropolis',
-  'Oriental Star International Residence',
-  'Jincheng Golf International Apartments',
-  'Yile New Village',
-  'Shuanglin Yiyuan',
-  'Wending Apartment',
-  'Chunhan Apartment',
-  'Jinglong Kitchenware City',
+  'Menara K1 @ Old Klang Road',
+  '10 Boulevard @ Damansara Jaya',
+  'Sekitar26 Enterprise @ Kemuning',
+  'Isola @ KLCC',
+  'Scenaria @ North Kiara Hill',
+  'The Mate @ Damansara Jaya',
+  'Ken Damansara 3 @ SS2',
+  'Jasmine Tower @ SS2',
+  'Wisma PJ5 @ Kelana Jaya',
+  'Yolo signature Suite @ Sunway',
+  'The Villa @ Serai Saujana',
+  '8 Kinrara @ Bandar Kinrara',
+
 ]
 
 export default function About() {
