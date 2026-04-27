@@ -16,7 +16,7 @@ const DEPARTMENTS = [
 ]
 
 const PROJECTS = [
-  'Danxi Third District · Times Garden',
+  'Isola @ KLCC',
   'Sunshine Metropolis',
   'Oriental Star International Residence',
   'Jincheng Golf International Apartments',
